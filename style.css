@@ -1,0 +1,10 @@
+#canvas1 {
+	border: 5px solid black;
+	/* 垂直水平居中 */
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	/* 以自身为基准偏移50% */
+	translate: -50% -50%;
+}
+
